@@ -1,0 +1,15 @@
+.tbl-full{
+
+    width: 100%;
+}
+table tr th{
+    border-bottom: 1px solid black;
+    padding: 1%;
+    text-align: left;
+}
+table tr td{
+    padding: 1%;
+}
+.btn-primary{
+    background-color: blue;
+}
